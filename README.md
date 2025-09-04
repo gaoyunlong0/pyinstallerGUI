@@ -21,7 +21,7 @@
 ## 📸 界面截图
 
 ### 主界面
-![主界面](https://via.placeholder.com/800x600/f8f9fa/333333?text=PyInstaller+GUI+%E4%B8%BB%E7%95%8C%E9%9D%A2)
+![主界面]([https://via.placeholder.com/800x600/f8f9fa/333333?text=PyInstaller+GUI+%E4%B8%BB%E7%95%8C%E9%9D%A2](https://github.com/gaoyunlong0/pyinstallerGUI/blob/main/img/1b815815-e350-4356-9c70-5bdece2c3138.png?raw=true))
 
 
 
@@ -212,5 +212,6 @@ pyinstaller-gui/
 如果这个项目对你有帮助，请给它一个星标 ⭐
 
 ---
+
 
 **注意**: 本工具仅生成PyInstaller命令，实际的打包执行需要在终端中手动运行生成的命令。
